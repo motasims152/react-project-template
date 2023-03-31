@@ -8,7 +8,7 @@ const App = () => {
                 <h1>A template for React Project</h1>
             </header>
             <main>
-                <h1>Welcome to React</h1>
+                <h1>Welcome to motasim rasel</h1>
             </main>
             <footer>
                 <p className="left">
@@ -18,7 +18,7 @@ const App = () => {
                     </a>{' '}
                     channel
                 </p>
-                <p className="right">Developed with &hearts; by Anisul Islam</p>
+                <p className="right">Developed with &hearts; by motasim billa</p>
             </footer>
         </div>
     );
